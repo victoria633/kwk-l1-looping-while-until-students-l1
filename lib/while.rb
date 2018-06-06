@@ -1,6 +1,6 @@
 def using_while
-puts	levitation_force = 6
-	
+levitation_force = 6
+	puts 
 	#your code here
 end
 
